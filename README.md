@@ -1,2 +1,2 @@
 # python-todo-list
-simple python todo_list 
+A console-based To-Do List application built with Python.
